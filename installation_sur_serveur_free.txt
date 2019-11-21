@@ -1,0 +1,21 @@
+Pour installer sur un serveur (ici sur serveur free, pages perso)
+
+1. Télécharger WordPress
+ -offres hebergés https://fr.wordpress.com/pricing/
+ -le telecharger pour l' 
+
+2. S'assurer que le serveur dispose d'une version adapté de php et MySql
+
+3. Décompresser l'archive
+
+3. Utiliser un client FTP pour uploader les fichiers : ex: https://filezilla-project.org/
+
+4. Démarrer WordPress pour la première fois, il propose de paramétrer plusieurs éléments.
+	-nom de la base de données
+	-identifiants et identifiant base de donnees.
+
+5. Adresse pour accéder a WordPress: m. tout le monde : adresse.quelquechose.fr
+				     l'administrateur : adresse.quelquechose.fr/wp-admin
+
+
+http://www.wordpress.sur.free.fr/
